@@ -1,5 +1,7 @@
 # CS-Python-Game
 
-[ ] Chess
-[ ] Cards
-[ ] Weather monitor
+- [ ] Chess
+
+- [ ] Cards
+
+- [ ] Weather monitor
